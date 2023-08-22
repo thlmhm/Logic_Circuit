@@ -1,0 +1,8 @@
+https://www.multisim.com/content/gM4gn5TpBDNw7YxSikmCCE/mach-1-2/open/
+https://www.multisim.com/content/cWDgb3qR3swvGwnsDJDLNP/mach-3-4/open/
+https://www.multisim.com/content/rbAfBNJR6nMEwk7bkM2PyT/mach-5-6/open/
+https://www.multisim.com/content/ZKJAikuXkQopRBozqXiM8G/nand-circuit/open/
+https://www.multisim.com/content/CcPPYxQsfj8MWkWSwHgR6X/nor_20194786/open/
+
+https://www.multisim.com/content/YrTUBZnvdHRbQpDJu3pFnS/xor_20194786/open/
+https://www.multisim.com/content/bPBSwoK9aKynPLDx7egyYN/full-adder-lam/open/
